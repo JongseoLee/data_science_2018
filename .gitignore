@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+Chapter03/cache/joblib/mglearn/plot_nmf/nmf_faces/9e2d0d42d365c88476a772fb5dc58d73/metadata.json
+Chapter03/cache/joblib/mglearn/plot_nmf/nmf_faces/9e2d0d42d365c88476a772fb5dc58d73/output.pkl
+Chapter03/cache/joblib/mglearn/plot_pca/pca_faces/9e2d0d42d365c88476a772fb5dc58d73/metadata.json
+Chapter03/cache/joblib/mglearn/plot_pca/pca_faces/9e2d0d42d365c88476a772fb5dc58d73/output.pkl
