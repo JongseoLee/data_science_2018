@@ -41,7 +41,7 @@
 - 2.3.2 [k-최근접 이웃](https://github.com/JongseoLee/data_science_2018/blob/master/Chapter02/2.3.2.ipynb) 
 - 2.3.3 [선형 모델](https://github.com/JongseoLee/data_science_2018/blob/master/Chapter02/2.3.3.ipynb) 
 - 2.3.4 [나이브 베이즈 분류기](https://github.com/JongseoLee/data_science_2018/blob/master/Chapter02/2.3.4.ipynb) (by 3/20)
-#==> 2.3.4 import graphiz error    
+ 
 
 
 - 2.3.5 [결정 트리](https://nbviewer.jupyter.org/github/bluebibi/data_science_2018/blob/master/Chapter02/2.3.5.ipynb) 
